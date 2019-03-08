@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="insert" />
+    <mouse-shortcut keystroke="button3" />
+  </action>
+</keymap>
